@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# [Timeline of Computer History](https://www.computerhistory.org/timeline/)
+
+This is a website shown to me in my "History of Computing" class in Steinhardt. I thought it was super interesting, especially how some of the events of the timeline are physical counterparts of digital tools, like one guy's collection of all world knowledge to form a search engine. I wonder how the Computer History Museum decided which events were valuable to the timeline, and which events were not. We read a reading that detailed another computing history timeline, and that timeline went even further back to the 19th century.
